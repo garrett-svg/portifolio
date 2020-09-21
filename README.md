@@ -5,7 +5,7 @@ Portifolio do desenvolvedor
 
 Ocontrole das tarefas desse projeto será realizado no GitHub
 
-Ícones
+## Ícones
 
 :package: nova funcinalidade
 :up: atualização
